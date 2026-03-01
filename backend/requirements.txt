@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+flask-cors
+flask-migrate
+flask-bcrypt
+mysql-connector-python
+pandas
+scikit-learn
+joblib
+numpy
+python-dotenv
+gunicorn
